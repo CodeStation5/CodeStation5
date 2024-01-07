@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+               ((`\
+            ___ \\ '--._
+         .'`   `'    o  )
+        /    \   '. __.'
+       _|    /_  \ \_\_
+      {_\______\-'\__\_\
 <!--
 **CodeStation5/CodeStation5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
