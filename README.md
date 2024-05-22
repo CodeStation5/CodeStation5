@@ -9,7 +9,7 @@
 
 
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Multilanguage,Commits,Repositories,Issues,PullRequestFollowers))](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5)](https://github.com/CodeStation5/github-profile-trophy)
 
 <!--
 **CodeStation5/CodeStation5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
