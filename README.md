@@ -4,7 +4,7 @@
 
 ---
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange&logo=telegram&logoColor=white)](https://leetcode.com/u/fallingleaves/)
-[![Twitter Badge](https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange&logo=twitter&logoColor=white)](https://leetcode.com/u/fallingleaves/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-badge?style=for-the-badge&color=orange&logo=twitter&logoColor=white)](https://leetcode.com/u/fallingleaves/)
 
 
 
