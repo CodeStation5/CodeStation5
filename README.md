@@ -1,15 +1,20 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,MultipleLang,Stars,Followers,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
+
 
 
 ---
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange&logo=telegram&logoColor=white)](https://leetcode.com/u/fallingleaves/)
----
+
 
 
 ---
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=100" alt="GitHub Streak" /></a>
+
 ---
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=CodeStation5&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeStation5&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
 
 
 
