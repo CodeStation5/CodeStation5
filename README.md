@@ -10,7 +10,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=100" alt="GitHub Streak" /></a>
 
 
-<a href="https://github.com/Jaysmito101/dynamic-badges/"><img src="https://dynamic-badges.maxalpha.repl.co/star?user=Jaysmito101&repo=dynamic-badges&show=true"><img src="https://dynamic-badges.maxalpha.repl.co/star?image=true"></a>
+
 
 
 
