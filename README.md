@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,MultipleLang,Stars,Followers,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=100" alt="GitHub Streak" /></a>
 
 
 
