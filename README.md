@@ -1,9 +1,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,MultipleLang,Stars,Followers,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Telegram Badge](https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange)](https://leetcode.com/u/fallingleaves/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange&logo=telegram&logoColor=white)](https://leetcode.com/u/fallingleaves/)
 
-https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange
+
 
 
 <!--
