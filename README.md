@@ -1,5 +1,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,MultipleLang,Stars,Followers,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+[![Telegram Badge](https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange)](https://leetcode.com/u/fallingleaves/)
+
+https://img.shields.io/badge/LeetCode-badge?style=for-the-badge&color=orange
+
+
 <!--
 **CodeStation5/CodeStation5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
