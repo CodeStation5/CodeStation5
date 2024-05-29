@@ -11,7 +11,7 @@
 ## 📊 &nbsp;Stats
 ---
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=gruvbox&card_width=600&card_height=100" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=monokai&card_width=600&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
 ---
