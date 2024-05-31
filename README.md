@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,Experience,MultipleLang,Stars,Followers,PullRequest&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,Experience,MultipleLang&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
