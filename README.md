@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,Experience,MultipleLang&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,Experience,MultipleLang&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=monokai&card_width=600&card_height=170" alt="GitHub Streak" /></a>
