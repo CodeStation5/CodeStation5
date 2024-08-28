@@ -1,7 +1,5 @@
 <p align="center">
- 
  [![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,Experience,MultipleLang&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
- 
 </p>
 
 <p align="center">
