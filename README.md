@@ -1,15 +1,13 @@
-<p align="center">
  [![trophy](https://github-profile-trophy.vercel.app/?username=CodeStation5&title=Commits,Repositories,Experience,MultipleLang&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
-<p align="center">
+
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeStation5&theme=monokai&card_width=600&card_height=170" alt="GitHub Streak" /></a>
-</p>
 
-<p align="center">
+
  <!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=CodeStation5&show_icons=true&theme=monokai"> -->
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeStation5&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
-</p>
+
 
 ---
 
