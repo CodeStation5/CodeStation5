@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+Github!)](https://git.io/typing-svg)
 
  <!-- <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=CodeStation5&show_icons=true&theme=monokai"> -->
  <p align="center">
